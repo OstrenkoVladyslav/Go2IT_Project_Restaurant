@@ -1,0 +1,24 @@
+15:20:46.575 CUSTOM_PATTERN [main] INFO  c.restaurant.RestaurantApplication - E-Restaurant application started
+15:20:47.451 CUSTOM_PATTERN [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.2.Final}
+15:20:47.668 CUSTOM_PATTERN [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+15:20:48.266 CUSTOM_PATTERN [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+15:20:48.526 CUSTOM_PATTERN [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15:20:48.586 CUSTOM_PATTERN [main] INFO  c.restaurant.RestaurantApplication - Bean context is up
+15:22:19.729 CUSTOM_PATTERN [main] INFO  c.restaurant.RestaurantApplication - E-Restaurant application started
+15:22:20.294 CUSTOM_PATTERN [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.2.Final}
+15:22:20.420 CUSTOM_PATTERN [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+15:22:20.856 CUSTOM_PATTERN [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+15:22:21.036 CUSTOM_PATTERN [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15:22:21.086 CUSTOM_PATTERN [main] INFO  c.restaurant.RestaurantApplication - Bean context is up
+15:28:15.633 CUSTOM_PATTERN [main] INFO  c.restaurant.RestaurantApplication - E-Restaurant application started
+15:28:16.121 CUSTOM_PATTERN [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.2.Final}
+15:28:16.290 CUSTOM_PATTERN [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+15:28:16.718 CUSTOM_PATTERN [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+15:28:16.889 CUSTOM_PATTERN [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15:28:16.937 CUSTOM_PATTERN [main] INFO  c.restaurant.RestaurantApplication - Bean context is up
+15:30:42.763 CUSTOM_PATTERN [main] INFO  c.restaurant.RestaurantApplication - E-Restaurant application started
+15:30:43.488 CUSTOM_PATTERN [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.2.Final}
+15:30:43.668 CUSTOM_PATTERN [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+15:30:44.187 CUSTOM_PATTERN [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+15:30:44.504 CUSTOM_PATTERN [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15:30:44.555 CUSTOM_PATTERN [main] INFO  c.restaurant.RestaurantApplication - Bean context is up
